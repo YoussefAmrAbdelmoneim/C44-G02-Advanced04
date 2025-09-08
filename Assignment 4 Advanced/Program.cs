@@ -167,6 +167,26 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Q12
+        //    Dictionary<string, int> dict = new Dictionary<string, int>()
+        //{
+        //    { "apple", 1 },
+        //    { "animal", 2 },
+        //    { "airport", 3 },
+        //    { "banana", 4 }
+        //};
+        //    Console.Write("Enter target character: ");
+        //    char targetChar = Console.ReadLine()[0];
+        //    int count = 0;
+        //    foreach (var key in dict.Keys)
+        //    {
+        //        if (key.StartsWith(targetChar.ToString(), StringComparison.OrdinalIgnoreCase))
+        //        {
+        //            count++;
+        //        }
+        //    }
+        //    Console.WriteLine($"Number of keys starting with '{targetChar}': {count}");
+            #endregion
         }
     }
 }
