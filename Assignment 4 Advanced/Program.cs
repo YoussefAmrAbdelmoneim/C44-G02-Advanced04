@@ -40,6 +40,24 @@ namespace Assignment_4_Advanced
             //}
             //Console.WriteLine($"Key with highest value: {maxKey}, Value: {maxValue}");
             #endregion
+            #region Q3
+            //Hashtable hashtable = new Hashtable() { ["key1"] = "apple", ["key2"] = "banana", ["key3"]="apple"};
+            //Console.Write("Enter target value: ");
+            //string target = Console.ReadLine() ??"";
+            //bool found = false;
+            //foreach (DictionaryEntry item in hashtable)
+            //{
+            //    if ((string?)item.Value == target)
+            //    {
+            //        Console.WriteLine(item.Key);
+            //        found = true;
+            //    }
+            //}
+            //if (!found)
+            //{
+            //    Console.WriteLine("Key not found");
+            //}
+            #endregion
         }
     }
 }
