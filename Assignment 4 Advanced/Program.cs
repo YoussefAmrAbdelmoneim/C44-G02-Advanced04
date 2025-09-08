@@ -144,6 +144,20 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine(item);   
             //}
             #endregion
+            #region Q10
+            //Hashtable hashtable = new Hashtable() { ["A"] = 1, ["B"] = 2, ["C"] = 3, ["D"]=4};
+            //Hashtable swapped = new Hashtable();
+            //foreach (DictionaryEntry item in hashtable)
+            //{
+            //    Console.WriteLine(item);
+            //    swapped[item.Value ??0] =item.Key;
+            //}
+            //Console.WriteLine("----------------------------");
+            //foreach (var item in swapped)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
