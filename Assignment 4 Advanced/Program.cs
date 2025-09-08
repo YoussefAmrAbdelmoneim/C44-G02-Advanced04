@@ -158,6 +158,15 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Q11
+            //SortedSet<int> set1 = new SortedSet<int>() { 1, 2, 3, 4, 5 ,5};
+            //SortedSet<int> set2 = new SortedSet<int>() {5, 6, 7, 8, 9, 10 };
+            //var unionSets= set1.Union(set2);
+            //foreach (var item in unionSets)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
