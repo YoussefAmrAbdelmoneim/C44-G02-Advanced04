@@ -25,6 +25,21 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine($"Element {item.Key}: {item.Value} times");
             //}
             #endregion
+            #region Q2
+            //Hashtable hashtable = new Hashtable() { ["Youssef"] = 100 , ["Amr"] = 20, ["Ali"]=10 , ["Mona"] = 30};
+            //object? maxKey = null;
+            //int maxValue = int.MinValue;
+            //foreach (DictionaryEntry item in hashtable)
+            //{
+            //    int value = (int?)item.Value ??0;
+            //    if (value > maxValue)
+            //    {
+            //        maxValue = value;
+            //        maxKey = item.Key;
+            //    }
+            //}
+            //Console.WriteLine($"Key with highest value: {maxKey}, Value: {maxValue}");
+            #endregion
         }
     }
 }
