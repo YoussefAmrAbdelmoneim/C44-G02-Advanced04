@@ -110,6 +110,18 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Q7
+            //SortedList<int, string> keyValues = new SortedList<int, string>() { [1] = "Youssef", [2] = "Amr", [3]="Mona"};
+            //foreach (var item in keyValues)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //int id = 1;
+            //if (keyValues.ContainsKey(1))
+            //{
+            //    Console.WriteLine(keyValues[id]);
+            //}
+            #endregion
         }
     }
 }
