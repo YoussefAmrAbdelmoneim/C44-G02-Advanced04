@@ -216,6 +216,17 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine("Invalid input.");
             //}
             #endregion
+            #region Q14
+            //SortedList sortedList = new SortedList() { [1] = 10, [2] = 20, [3] = 13, [4] = 15, [5]=60};
+            //foreach (DictionaryEntry item in sortedList)
+            //{
+            //    int value = (int?)item.Value??0;
+            //    if (value % 2 == 0)
+            //    {
+            //        Console.WriteLine(item.Key);
+            //    }
+            //}
+            #endregion
         }
     }
 }
