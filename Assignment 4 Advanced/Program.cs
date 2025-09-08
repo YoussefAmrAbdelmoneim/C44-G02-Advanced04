@@ -58,6 +58,26 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine("Key not found");
             //}
             #endregion
+            #region Q4
+            //string[] words = { "eat", "tea", "tan", "ate", "nat", "bat" };
+            //Dictionary<string, List<string>> groups = new Dictionary<string, List<string>>();
+            //foreach (string word in words)            
+            //{
+            //    char[] chars = word.ToCharArray();
+            //    Array.Sort(chars);
+            //    string key = new string(chars);
+            //    if (!groups.ContainsKey(key))
+            //    {
+            //        groups[key] = new List<string>();
+            //    }
+            //    groups[key].Add(word);
+            //}
+            //Console.WriteLine("Grouped Anagrams:");
+            //foreach (var group in groups.Values)
+            //{
+            //    Console.WriteLine("[ " + string.Join(", ", group) + " ]");
+            //}
+            #endregion
         }
     }
 }
