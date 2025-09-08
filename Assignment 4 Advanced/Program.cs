@@ -122,6 +122,20 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine(keyValues[id]);
             //}
             #endregion
+            #region Q8
+            //int N = 10;
+            //int[] numbers = { 1, 2, 4, 6, 7, 9, 10 };
+            //HashSet<int> sets = new HashSet<int>(numbers);
+            //List<int> missing = new List<int>();
+            //for (int i = 1; i <= N; i++)
+            //{
+            //    if (!sets.Contains(i))
+            //    {
+            //        missing.Add(i);
+            //    }
+            //}
+            //Console.WriteLine("Missing numbers: " + string.Join(", ", missing));
+            #endregion
         }
     }
 }
