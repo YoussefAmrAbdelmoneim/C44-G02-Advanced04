@@ -99,6 +99,17 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine("Array does not contain duplicates.");
             //}
             #endregion
+            #region Q6
+            //SortedDictionary<int, string> keyValues = new SortedDictionary<int, string>();
+            //keyValues.Add(1, "Youssef");
+            //keyValues.Add(2, "Amr");
+            //keyValues.Add(3, "Mona");
+            //keyValues.Remove(3);
+            //foreach (var item in keyValues)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
