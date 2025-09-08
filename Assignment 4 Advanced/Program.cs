@@ -168,24 +168,53 @@ namespace Assignment_4_Advanced
             //}
             #endregion
             #region Q12
-        //    Dictionary<string, int> dict = new Dictionary<string, int>()
-        //{
-        //    { "apple", 1 },
-        //    { "animal", 2 },
-        //    { "airport", 3 },
-        //    { "banana", 4 }
-        //};
-        //    Console.Write("Enter target character: ");
-        //    char targetChar = Console.ReadLine()[0];
-        //    int count = 0;
-        //    foreach (var key in dict.Keys)
-        //    {
-        //        if (key.StartsWith(targetChar.ToString(), StringComparison.OrdinalIgnoreCase))
-        //        {
-        //            count++;
-        //        }
-        //    }
-        //    Console.WriteLine($"Number of keys starting with '{targetChar}': {count}");
+            //    Dictionary<string, int> dict = new Dictionary<string, int>()
+            //{
+            //    { "apple", 1 },
+            //    { "animal", 2 },
+            //    { "airport", 3 },
+            //    { "banana", 4 }
+            //};
+            //    Console.Write("Enter target character: ");
+            //    char targetChar = Console.ReadLine()[0];
+            //    int count = 0;
+            //    foreach (var key in dict.Keys)
+            //    {
+            //        if (key.StartsWith(targetChar.ToString(), StringComparison.OrdinalIgnoreCase))
+            //        {
+            //            count++;
+            //        }
+            //    }
+            //    Console.WriteLine($"Number of keys starting with '{targetChar}': {count}");
+            #endregion
+            #region Q13
+            //SortedSet<int> numbers = new SortedSet<int>() { 1, 3, 5, 7, 9, 11, 15 };
+            //Console.Write("Enter target: ");
+            //string? input = Console.ReadLine();
+            //int target;
+            //if (int.TryParse(input, out target))
+            //{
+            //    List<int> greaterThanTarget = new List<int>();
+            //    foreach (int num in numbers)
+            //    {
+            //        if (num > target)
+            //        {
+            //            greaterThanTarget.Add(num);
+            //        }
+            //    }
+            //    if (greaterThanTarget.Count > 0)
+            //    {
+            //        Console.WriteLine("Elements greater than " + target + ": " + string.Join(", ", greaterThanTarget));
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("No elements greater than " + target);
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input.");
+            //}
             #endregion
         }
     }
