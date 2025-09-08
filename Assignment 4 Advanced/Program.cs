@@ -78,6 +78,27 @@ namespace Assignment_4_Advanced
             //    Console.WriteLine("[ " + string.Join(", ", group) + " ]");
             //}
             #endregion
+            #region Q5
+            //int[] arr = [1, 2, 3, 4, 5, 1, 2, 1, 1, 6];
+            //HashSet<int> set = new HashSet<int>();
+            //bool isDuplicate = false;
+            //foreach (int item in arr)
+            //{
+            //    if (!set.Add(item))
+            //    {
+            //        isDuplicate = true;
+            //        break;
+            //    }
+            //}
+            //if (isDuplicate)
+            //{
+            //    Console.WriteLine("Array contains duplicates.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Array does not contain duplicates.");
+            //}
+            #endregion
         }
     }
 }
