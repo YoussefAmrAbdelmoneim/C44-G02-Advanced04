@@ -136,6 +136,14 @@ namespace Assignment_4_Advanced
             //}
             //Console.WriteLine("Missing numbers: " + string.Join(", ", missing));
             #endregion
+            #region Q9
+            //List<int> list = new List<int>() { 1, 2, 3, 4, 5, 1, 1, 2, 3 };
+            //HashSet<int> set = new HashSet<int>(list);
+            //foreach (var item in set)
+            //{
+            //    Console.WriteLine(item);   
+            //}
+            #endregion
         }
     }
 }
